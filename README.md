@@ -23,7 +23,7 @@ Este proyecto permite obtener noticias recientes de empresas tecnológicas utili
 ├── obtener_noticias_GNEWS.py  # Módulo para consumir la API de GNews
 ├── obtener_noticias_NEWSAPI.py# Módulo para consumir la API de NewsAPI
 ├── analizar_costo_tokens.py   # Script para calcular el costo de tokens en Gemini
-├── requirements.txt           # Librerias 
+├── requirements.txt           # Dependencias del proyecto 
 └── README.md                  # Documentación del proyecto
 ```
 
